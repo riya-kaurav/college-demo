@@ -1,4 +1,2 @@
 # college-demo
-AUTHOR RIYA KAURAV
-<br>
-yashu jii balee balee
+this is a basic currency converter
